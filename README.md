@@ -4,3 +4,4 @@ The files are as follows:
 1. KNN with Cross Validation (Dataset: Classified Data)
 2. KNN (Dataset: Iris)
 3. Naive Bayes (Gaussian) with Grid Search CV (Dataset: Human Activity Recognition)
+4. Logistic Regression with ROC and AUC (Dataset: Social Networks Ads)
