@@ -6,3 +6,4 @@ The files are as follows:
 3. Naive Bayes (Gaussian) with Grid Search CV (Dataset: Human Activity Recognition)
 4. Logistic Regression with ROC and AUC (Dataset: Social Networks Ads)
 5. Linear Regression with Regression Evaluation Metrics (Dataset: Advertising)
+6. Support Vector Machine with Hyper-Parameter Tuning and GridSearchCV (Dataset: Voice)
