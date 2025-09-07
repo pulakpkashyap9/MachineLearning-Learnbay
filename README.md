@@ -7,3 +7,4 @@ The files are as follows:
 4. Logistic Regression with ROC and AUC (Dataset: Social Networks Ads)
 5. Linear Regression with Regression Evaluation Metrics (Dataset: Advertising)
 6. Support Vector Machine with Hyper-Parameter Tuning and GridSearchCV (Dataset: Voice)
+7. Ensemble Algorithms (Decison Tree, Random Forest, Ada Boost, Gradient Boosting, XG Boost) with Hyper-Parameter Tuning using Grid Search CV (Dataset: German Credit Data)
