@@ -8,3 +8,4 @@ The files are as follows:
 5. Linear Regression with Regression Evaluation Metrics (Dataset: Advertising)
 6. Support Vector Machine with Hyper-Parameter Tuning and GridSearchCV (Dataset: Voice)
 7. Ensemble Algorithms (Decison Tree, Random Forest, Ada Boost, Gradient Boosting, XG Boost) with Hyper-Parameter Tuning using Grid Search CV (Dataset: German Credit Data)
+8. Clustering Algorithms: KMeans and Hierarchical (Dataset: Mall Cutomers)
