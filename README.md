@@ -1,5 +1,5 @@
 # MachineLearning-Learnbay
-These are the Machine Learning algorithms that I have learned via Learn Bay and Simplilearn.  This repository has all the files with the codes required for the alogorithms taught by Learn Bay
+These are the Machine Learning algorithms that I have learned via Learn Bay and Simplilearn.  This repository has all the files with the codes required for the alogorithms taught to me by those portals.
 The files are as follows:
 1. LEARNBAY: KNN with Cross Validation (Dataset: Classified Data)
 2. LEARNBAY: KNN (Dataset: Iris)
